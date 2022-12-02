@@ -88,7 +88,7 @@ public class Advent1 {
 
 	public static void main(String[] args) throws FileNotFoundException, IOException {
 		// TODO Auto-generated method stub
-		System.out.print(elfOutPut("./advent1test.txt"));
+		System.out.print(elfOutPut("./advent1input.txt"));
 	}
 
 }
